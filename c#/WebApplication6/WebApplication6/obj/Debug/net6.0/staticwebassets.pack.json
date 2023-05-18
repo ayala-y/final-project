@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\אילה\\פרויקט גמר\\c#\\WebApplication6\\WebApplication6\\wwwroot\\images\\0d08a0b7-f483-42a0-ad74-288e95e9d550",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\אילה\\פרויקט גמר\\c#\\WebApplication6\\WebApplication6\\wwwroot\\images\\0f200e7e-ae1a-4e81-a927-38d20ddc842f",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\אילה\\פרויקט גמר\\c#\\WebApplication6\\WebApplication6\\wwwroot\\images\\33e63efe-f46f-47cc-9740-f67f67601678",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\אילה\\פרויקט גמר\\c#\\WebApplication6\\WebApplication6\\wwwroot\\images\\3d780ef8-0f03-4fa0-8cda-43e173caab49",
+      "PackagePath": "staticwebassets\\images"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\אילה\\פרויקט גמר\\c#\\WebApplication6\\WebApplication6\\wwwroot\\images\\A.png",
+      "PackagePath": "staticwebassets\\images\\A.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\אילה\\פרויקט גמר\\c#\\WebApplication6\\WebApplication6\\wwwroot\\images\\ישרה3.png",
+      "PackagePath": "staticwebassets\\images\\ישרה3.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\אילה\\פרויקט גמר\\c#\\WebApplication6\\WebApplication6\\wwwroot\\images\\פעמון 17.png",
+      "PackagePath": "staticwebassets\\images\\פעמון 17.png"
+    },
+    {
+      "Id": "C:\\Users\\USER\\Desktop\\אילה\\פרויקט גמר\\c#\\WebApplication6\\WebApplication6\\wwwroot\\images\\פעמון2.png",
+      "PackagePath": "staticwebassets\\images\\פעמון2.png"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.WebApplication6.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.WebApplication6.props",
+      "PackagePath": "build\\WebApplication6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.WebApplication6.props",
+      "PackagePath": "buildMultiTargeting\\WebApplication6.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.WebApplication6.props",
+      "PackagePath": "buildTransitive\\WebApplication6.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
